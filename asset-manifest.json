@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/harshad.github.io/static/css/main.49d22df6.css",
+    "main.js": "/harshad.github.io/static/js/main.c070025a.js",
+    "static/js/415.4d6acbeb.chunk.js": "/harshad.github.io/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/harshad.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/harshad.github.io/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/harshad.github.io/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/harshad.github.io/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/harshad.github.io/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/harshad.github.io/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/Harshad_Sonawane.pdf": "/harshad.github.io/static/media/Harshad_Sonawane.251e5a1b540015222b29.pdf",
+    "static/media/home-main.svg": "/harshad.github.io/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/harshad.github.io/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/harshad.github.io/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/harshad.github.io/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/harshad.github.io/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/harshad.github.io/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/harshad.github.io/index.html",
+    "main.49d22df6.css.map": "/harshad.github.io/static/css/main.49d22df6.css.map",
+    "main.c070025a.js.map": "/harshad.github.io/static/js/main.c070025a.js.map",
+    "415.4d6acbeb.chunk.js.map": "/harshad.github.io/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/harshad.github.io/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49d22df6.css",
+    "static/js/main.c070025a.js"
+  ]
+}
